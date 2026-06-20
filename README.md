@@ -56,5 +56,3 @@ Upcoming work includes:
 ## Author
 
 Harsh Nag
-
-Computer Science & Engineering (Cybersecurity)
